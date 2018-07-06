@@ -1,10 +1,10 @@
 package com.example.basics.Basics;
 
-public class parent {
+public class Parent {
 
     public static void main(String[] args) {
 
-        methods m = new methods();
+        Methods m = new Methods();
         m.ValidateHeader();
     }
 }

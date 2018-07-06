@@ -1,6 +1,6 @@
 package com.example.strings.Strings;
 
-public class reverseDemo {
+public class ReverseDemo {
     public static void main(String[] args) {
         String s = "Oliveira";
         String t = "";

@@ -3,7 +3,7 @@ package com.example.basics.Basics;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class basics {
+public class Basics {
     public static void main(String[] args) {
 
         System.out.println("Hello");
@@ -20,6 +20,7 @@ public class basics {
 
         System.out.println(test);
         System.out.println(Arrays.toString(arr));
+
 
     }
 }

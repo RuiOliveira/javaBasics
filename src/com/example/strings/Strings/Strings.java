@@ -1,6 +1,6 @@
 package com.example.strings.Strings;
 
-public class strings {
+public class Strings {
     public static void main(String[] args) {
         String str = "Hello Rui Test Test";
         char[] charArray = str.toCharArray();
