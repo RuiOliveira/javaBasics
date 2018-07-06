@@ -1,4 +1,4 @@
-package com.example.basics.Basics;
+package Basics;
 
 public class ChildLevel extends ChildClassDemo {
 
