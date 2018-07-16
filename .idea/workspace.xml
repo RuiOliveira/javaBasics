@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="771c87a0-5586-4f66-8d37-2fe34a5a3bd4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/testngFiles/Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testngFiles/Annotations2.java" afterDir="false" />
+    <list default="true" id="771c87a0-5586-4f66-8d37-2fe34a5a3bd4" name="Default" comment="TestNG anotations">
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ArraysDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/AustralianTraffic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Basics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ChildClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ChildLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Interfaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/InterfacesSecond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/LetterCapitalize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/MultidimensionalArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ParentClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Triangule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/testngFiles/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/testngFiles/Annotations2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/LargestSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/LetterCapitalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Triangule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/ArraysDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/AustralianTraffic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/ChildClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/ChildLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/Interfaces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/InterfacesSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/ParentClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/basics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/com/example/basics/Basics/parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ArraysDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/AustralianTraffic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/AustralianTraffic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Basics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/ChildClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ChildClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/ChildLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ChildLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/InterfacesSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/InterfacesSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/basics/Basics/ParentClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/ParentClassDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,68 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Interfaces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/Interfaces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterfacesSecond.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/InterfacesSecond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AustralianTraffic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/AustralianTraffic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildClassDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/ChildClassDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildLevel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/ChildLevel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArraysDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/ArraysDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MultidimensionalArrays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basics/MultidimensionalArrays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,41 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Annotations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
+      <file leaf-file-name="Parent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basics/Parent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Annotations2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -165,6 +69,64 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/strings/Strings/ReverseDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Strings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/strings/Strings/Strings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basics/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#614#625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCapitalize.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basics/LetterCapitalize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Basics/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestSmallest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basics/LargestSmallest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -198,6 +160,12 @@
         <option value="$PROJECT_DIR$/src/Basics/MultidimensionalArrays.java" />
         <option value="$PROJECT_DIR$/src/testngFiles/Annotations.java" />
         <option value="$PROJECT_DIR$/src/testngFiles/Annotations2.java" />
+        <option value="$PROJECT_DIR$/src/Basics/Triangule.java" />
+        <option value="$PROJECT_DIR$/src/Basics/Tests.java" />
+        <option value="$PROJECT_DIR$/src/Basics/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/Basics/LargestSmallest.java" />
+        <option value="$PROJECT_DIR$/src/Basics/LetterCapitalize.java" />
+        <option value="$PROJECT_DIR$/src/Basics/Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -211,14 +179,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,13 +205,12 @@
               <item name="JavaBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="testngFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -269,12 +238,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Annotations (1)">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.ArraysDemo" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Fibonacci" />
+      <module name="javaBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LargestSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.LargestSmallest" />
+      <module name="javaBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LetterCapitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.LetterCapitalize" />
       <module name="javaBasics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -286,6 +277,17 @@
     </configuration>
     <configuration name="MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.MultidimensionalArrays" />
+      <module name="javaBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Reverse" />
       <module name="javaBasics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -314,93 +316,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Annotations (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="javaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testngFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testngFiles" />
-      <option name="MAIN_CLASS_NAME" value="testngFiles.Annotations" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Annotations" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="javaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testngFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testngFiles" />
-      <option name="MAIN_CLASS_NAME" value="testngFiles.Annotations" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Annotations.login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="javaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testngFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testngFiles" />
-      <option name="MAIN_CLASS_NAME" value="testngFiles.Annotations" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -424,19 +339,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ArraysDemo" />
+      <item itemvalue="Application.Reverse" />
       <item itemvalue="Application.MultidimensionalArrays" />
-      <item itemvalue="TestNG.Annotations" />
-      <item itemvalue="TestNG.Annotations.login" />
-      <item itemvalue="TestNG.Annotations (1)" />
+      <item itemvalue="Application.LetterCapitalize" />
+      <item itemvalue="Application.LargestSmallest" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Annotations (1)" />
-        <item itemvalue="TestNG.Annotations.login" />
-        <item itemvalue="TestNG.Annotations" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.LetterCapitalize" />
+        <item itemvalue="Application.LargestSmallest" />
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.MultidimensionalArrays" />
-        <item itemvalue="Application.ArraysDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +367,11 @@
       <updated>1530832999138</updated>
       <workItem from="1530868265662" duration="7100000" />
       <workItem from="1530913543920" duration="737000" />
-      <workItem from="1530914607572" duration="1817000" />
+      <workItem from="1530914607572" duration="1906000" />
+      <workItem from="1531126018562" duration="174000" />
+      <workItem from="1531132270841" duration="2956000" />
+      <workItem from="1531473024065" duration="8102000" />
+      <workItem from="1531736092422" duration="6002000" />
     </task>
     <task id="LOCAL-00001" summary="java multidimentional arrays">
       <created>1530914244127</created>
@@ -461,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530914244127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TestNG anotations">
+      <created>1530916583170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530916583170</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -488,27 +414,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9654000" />
+    <option name="totallyTimeSpent" value="26977000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32992327" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32902032" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32992327" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4547135" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992327" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32992327" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2754159" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24177396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -534,9 +460,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java multidimentional arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="java multidimentional arrays" />
+    <MESSAGE value="TestNG anotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNG anotations" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ParentClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basics/Interfaces.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -555,10 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -566,10 +513,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ChildLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/MultidimensionalArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ParentClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/InterfacesSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/AustralianTraffic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ChildClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -619,10 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,10 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/strings/Strings/ReverseDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javaBasics.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -686,10 +687,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/Interfaces.java">
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="345">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Triangule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -700,6 +718,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ChildClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ChildLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basics/InterfacesSecond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -707,25 +746,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/AustralianTraffic.java">
+    <entry file="file://$PROJECT_DIR$/src/Basics/Methods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/ChildClassDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Basics/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -736,17 +767,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/ChildLevel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/strings/Strings/ReverseDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/ArraysDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/strings/Strings/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -757,38 +788,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
+    <entry file="file://$PROJECT_DIR$/src/Basics/AustralianTraffic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#625#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations2.java">
+    <entry file="file://$PROJECT_DIR$/src/Basics/LargestSmallest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/LetterCapitalize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
