@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771c87a0-5586-4f66-8d37-2fe34a5a3bd4" name="Default" comment="TestNG anotations">
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ArraysDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/AustralianTraffic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Basics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ChildClassDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ChildLevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Interfaces.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/InterfacesSecond.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/LetterCapitalize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Methods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/MultidimensionalArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Parent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/ParentClassDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/Triangule.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/testngFiles/Annotations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaBasics/testngFiles/Annotations2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/LargestSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/LetterCapitalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/Triangule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasics/Basics/LargestSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasics/Basics/LargestSmallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/LargestSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/LargestSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Reverse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,11 +78,10 @@
       <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basics/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#614#625#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,16 +91,16 @@
         <entry file="file://$PROJECT_DIR$/src/Basics/LetterCapitalize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basics/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -125,8 +108,23 @@
       <file leaf-file-name="LargestSmallest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basics/LargestSmallest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Basics/FizzBuzz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,10 +160,11 @@
         <option value="$PROJECT_DIR$/src/testngFiles/Annotations2.java" />
         <option value="$PROJECT_DIR$/src/Basics/Triangule.java" />
         <option value="$PROJECT_DIR$/src/Basics/Tests.java" />
-        <option value="$PROJECT_DIR$/src/Basics/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/Basics/LargestSmallest.java" />
         <option value="$PROJECT_DIR$/src/Basics/LetterCapitalize.java" />
         <option value="$PROJECT_DIR$/src/Basics/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/Basics/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/Basics/LargestSmallest.java" />
+        <option value="$PROJECT_DIR$/src/Basics/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -188,7 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,8 +210,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,12 +237,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.Fibonacci" />
+      <module name="javaBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.FizzBuzz" />
       <module name="javaBasics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -266,17 +276,6 @@
     </configuration>
     <configuration name="LetterCapitalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.LetterCapitalize" />
-      <module name="javaBasics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.MultidimensionalArrays" />
       <module name="javaBasics" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -340,18 +339,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Reverse" />
-      <item itemvalue="Application.MultidimensionalArrays" />
       <item itemvalue="Application.LetterCapitalize" />
       <item itemvalue="Application.LargestSmallest" />
       <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.FizzBuzz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.LargestSmallest" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.LetterCapitalize" />
-        <item itemvalue="Application.LargestSmallest" />
         <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.MultidimensionalArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +370,8 @@
       <workItem from="1531126018562" duration="174000" />
       <workItem from="1531132270841" duration="2956000" />
       <workItem from="1531473024065" duration="8102000" />
-      <workItem from="1531736092422" duration="6002000" />
+      <workItem from="1531736092422" duration="6078000" />
+      <workItem from="1531925770844" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="java multidimentional arrays">
       <created>1530914244127</created>
@@ -414,7 +414,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26977000" />
+    <option name="totallyTimeSpent" value="29129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -429,19 +429,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4547135" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992327" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4547135" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2754159" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17092651" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -464,13 +464,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="TestNG anotations" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/testngFiles/Annotations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basics/ParentClassDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -802,35 +795,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/LetterCapitalize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basics/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basics/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#614#625#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Basics/LargestSmallest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/LetterCapitalize.java">
+    <entry file="file://$PROJECT_DIR$/src/Basics/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basics/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,24 +1,31 @@
 package Basics;
 
 import org.omg.CORBA.INTERNAL;
+import sun.tools.tree.ArrayAccessExpression;
+
+import java.util.Arrays;
 
 public class LargestSmallest {
 
     public static void main(String[] args) {
-        Integer[] arr = new Integer[]{1,0,10,15,200,1000, 30000};
+        Integer[] arr = new Integer[]{105528,23,10,15,200,1000, 300};
 
-        int small = arr[0];
-        int max = 0, min = 0;
+        int maximum = arr[0];
+        int minimum = arr[0];
 
-        for (int i=0; i<arr.length; i++){
+        //Arrays.sort(arr);
+
+        for (int i=1; i<arr.length; i++){
             //max
-            if(arr[i]>small){
-                max = arr[i];
-            }else if(arr[i]<=small){
-                min = arr[i];
+            //System.out.println(arr[i]);
+
+            if(arr[i]>maximum){
+                maximum = arr[i];
+            }else if(arr[i]<minimum){
+                minimum = arr[i];
             }
         }
 
-        System.out.println("Max: " + max + " Min: " + min);
+        System.out.println("Max: " + maximum + " Min: " + minimum);
     }
 }
